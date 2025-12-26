@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"1dd72da6973e9fc0","type":"text","text":"ハード絡みの仕事が組込ではなく、それは一部に過ぎない","x":-800,"y":-720,"width":720,"height":60},
+		{"id":"d7c5e38106d2e674","type":"text","text":"組込み、用途特有だからハード制約される","x":-800,"y":-640,"width":800,"height":50},
+		{"id":"4e216fd9003cf7b3","type":"text","text":"機能を細かく分割していくのが組込み","x":-800,"y":-560,"width":720,"height":60},
+		{"id":"92de3ab4487a7a7b","type":"text","text":"組込みの言葉が広い","x":-800,"y":-480,"width":360,"height":60},
+		{"id":"2c664117faf81b78","type":"text","text":"正確性を求める","x":-800,"y":-400,"width":250,"height":60},
+		{"id":"3f364c3e0c8f84a5","type":"text","text":"用途特有システム","x":-420,"y":-400,"width":250,"height":60},
+		{"id":"84abf3f9f7db193d","type":"text","text":"状態遷移処理 FSM","x":-785,"y":-60,"width":250,"height":60},
+		{"id":"ee0d6190404fe950","type":"text","text":"関数型は組込みには不向き","x":-785,"y":30,"width":330,"height":60},
+		{"id":"3b0ca5520db58a36","type":"text","text":"Nervesに期待する事","x":-785,"y":130,"width":330,"height":60},
+		{"id":"4fae4125b32019a5","type":"text","text":" Co-routine","x":-400,"y":130,"width":250,"height":60},
+		{"id":"bd16b71488b4111c","type":"text","text":"設計が重要となる","x":-800,"y":-300,"width":300,"height":60},
+		{"id":"10eaf2abf2e0091b","type":"text","text":"オールマイティ","x":-50,"y":-222,"width":250,"height":60},
+		{"id":"5a9a01824f53205e","type":"text","text":"リアルタイムの意味","x":-800,"y":-165,"width":250,"height":55},
+		{"id":"28bcf12ec02640c3","type":"text","text":"RTOSとlinux","x":-455,"y":-162,"width":250,"height":50},
+		{"id":"f817208ed434bd8a","type":"text","text":"組込みとは","x":-1284,"y":-770,"width":284,"height":50},
+		{"id":"e0a93556407a8ada","type":"text","text":"構造","x":-1284,"y":-665,"width":284,"height":50},
+		{"id":"04d788955e61ee71","type":"text","text":"特徴","x":-1284,"y":-560,"width":284,"height":50},
+		{"id":"14afb5b5a5653600","type":"text","text":"これからの組込","x":-1284,"y":-450,"width":284,"height":50},
+		{"id":"de8978bd5a9c978b","type":"text","text":"世の中の傾向への反旗","x":-1284,"y":-160,"width":284,"height":50}
+	],
+	"edges":[]
+}

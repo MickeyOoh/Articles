@@ -1,0 +1,120 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Embedded_Systems",
+      "path": "Eng/Embedded_Systems.md"
+    },
+    {
+      "basename": "process",
+      "path": "reference/process.png"
+    },
+    {
+      "basename": "組込みにリアルタイムOS(RTOS)が必要な理由",
+      "path": "Qiita/組込みにリアルタイムOS(RTOS)が必要な理由.md"
+    },
+    {
+      "basename": "Tronの汎用への置き換え",
+      "path": "reference/Tronの汎用への置き換え.md"
+    },
+    {
+      "basename": "SEC資料",
+      "path": "reference/SEC資料.pdf"
+    },
+    {
+      "basename": "mindmap",
+      "path": "reference/mindmap.canvas"
+    },
+    {
+      "basename": "組込みシステムの特徴（抜粋用）",
+      "path": "reference/組込みシステムの特徴（抜粋用）.md"
+    },
+    {
+      "basename": "machine",
+      "path": "reference/machine.png"
+    },
+    {
+      "basename": "Luaを組込みに使用する方法 ChatGPT",
+      "path": "reference/Luaを組込みに使用する方法 ChatGPT.md"
+    },
+    {
+      "basename": "Embedded_features",
+      "path": "reference/Embedded_features.md"
+    },
+    {
+      "basename": "Nervesを組込みに適するためには",
+      "path": "Qiita/Nervesを組込みに適するためには.md"
+    },
+    {
+      "basename": "関数型プログラミングのコンカレント性って違うじゃね",
+      "path": "Qiita/関数型プログラミングのコンカレント性って違うじゃね.md"
+    },
+    {
+      "basename": "もうそろそろ関数から解放されたい",
+      "path": "Qiita/もうそろそろ関数から解放されたい.md"
+    },
+    {
+      "basename": "Elixirで状態遷移処理を作ってみた",
+      "path": "Qiita/Elixirで状態遷移処理を作ってみた.md"
+    },
+    {
+      "basename": "Elixirでタイムアウト時間がいつも1msにずれる",
+      "path": "Qiita/Elixirでタイムアウト時間がいつも1msにずれる.md"
+    },
+    {
+      "basename": "functionalプログラミングって組込みに適さないかも",
+      "path": "Qiita/functionalプログラミングって組込みに適さないかも.md"
+    },
+    {
+      "basename": "Elixirで変数をこんな風に持っているんだ",
+      "path": "Qiita/Elixirで変数をこんな風に持っているんだ.md"
+    },
+    {
+      "basename": "2025-11-29",
+      "path": "Diary/2025-11-29.md"
+    },
+    {
+      "basename": "2025-11-27",
+      "path": "Diary/2025-11-27.md"
+    },
+    {
+      "basename": "2025-09-16",
+      "path": "Diary/2025-09-16.md"
+    },
+    {
+      "basename": "2025-09-08",
+      "path": "Diary/2025-09-08.md"
+    },
+    {
+      "basename": "2025-09-02",
+      "path": "Diary/2025-09-02.md"
+    },
+    {
+      "basename": "embedded1",
+      "path": "inbox/embedded1.md"
+    },
+    {
+      "basename": "todo",
+      "path": "todo.md"
+    },
+    {
+      "basename": "cursesの疑問",
+      "path": "cursesの疑問.md"
+    },
+    {
+      "basename": "StateProcess",
+      "path": "inbox/StateProcess.md"
+    },
+    {
+      "basename": "組込みは結果よりプロセスが大事じゃない",
+      "path": "inbox/組込みは結果よりプロセスが大事じゃない.md"
+    },
+    {
+      "basename": "FSM状態遷移処理について",
+      "path": "inbox/FSM状態遷移処理について.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
